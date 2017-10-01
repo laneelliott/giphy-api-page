@@ -1,0 +1,20 @@
+.gif-div {
+	display: inline-block;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	background-color: #fafafa;
+}
+
+.btn-add {
+	margin-right: 15px;
+}
+
+section {
+	margin-top: 60px;
+}
+
+.jumbotron {
+	background-color: white;
+	color: #afafaf;
+}
