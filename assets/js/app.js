@@ -67,11 +67,6 @@ function giphyAPI(searchTerm){
     });
 }
 
-//Displays the Giphy from the API Response
-function displayGiphy(json){
-	console.log('Displayed')
-}
-
 //Capture User Input and Push to the giphyArray
 function addGiphy(item){
 	giphyArray.push(item);
